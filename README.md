@@ -43,3 +43,7 @@ query ListAllCourses{
   }
 }
 ```
+## Running
+```
+go run server.go 
+```
